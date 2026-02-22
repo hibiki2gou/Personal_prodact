@@ -36,7 +36,3 @@
 - JavaScript (Vanilla JS / Async-Await)
 - CSS3
 - Google Translate API (Unofficial via fetch)
-
-## 📝 ライセンス
-
-[MIT](LICENSE)
