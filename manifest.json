@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "translation-popup",
+    "version": "1.0",
+    "description": "Hover over English text to translate.",
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "css": [
+                "style.css"
+            ],
+            "permissions": [
+                "clipboardWrite"
+            ]
+        }
+    ]
+}
