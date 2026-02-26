@@ -33,6 +33,6 @@
 
 ##  使用技術
 
-- JavaScript (Vanilla JS / Async-Await)
+- JavaScript
 - CSS3
-- Google Translate API (Unofficial via fetch)
+- Google Translate API
